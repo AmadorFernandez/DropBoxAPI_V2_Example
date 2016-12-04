@@ -1,6 +1,5 @@
 <resources>
-    <string name="app_key">epht03mvpmsvhr5</string>
-    <string name="app_private_key">e39je7740iw79um</string>
+    <string name="app_key">Your App Key here</string>
     <string name="app_name">AndroidBox</string>
 
     <!-- TODO: Remove or change this placeholder text -->
